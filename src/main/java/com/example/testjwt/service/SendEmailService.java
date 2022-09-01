@@ -54,7 +54,7 @@ public class SendEmailService {
 
     public void sendMail( AppUser appUser) {
 
-        String fromAddress = "tungduong25122002@gmail.com";
+        String fromAddress = "trandinhquanhubt@gmail.com";
         String content = "Xin chao,[[name]]<br>" +
                 "Dang ki thanh cong";
         String subject = "Chao mung......";
